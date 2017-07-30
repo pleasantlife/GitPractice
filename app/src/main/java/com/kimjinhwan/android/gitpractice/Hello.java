@@ -7,6 +7,6 @@ package com.kimjinhwan.android.gitpractice;
 public class Hello {
 
     private static void good(){
-        
+
     }
 }
